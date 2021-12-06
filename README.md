@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning SpringBoot
 - 💬 Ask me about C and Java
 - 📫 How to reach me: smelihakan@gmail.com
+- aa
